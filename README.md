@@ -1,4 +1,4 @@
-xmlns:local="clr-namespace:Praktika6"
+xmlns:local="clr-namespace:prakt66666"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
